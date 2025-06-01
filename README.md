@@ -35,7 +35,6 @@ Project Structure
 
 **Technologies Used**
 This React Native project utilizes a combination of modern libraries and tools for functionality, UI, and background operations:
-**Core Technologies:**
 ```text
 1.React Native CLI – Framework for building native mobile apps using JavaScript/TypeScript.
 2. TypeScript – Static typing to enhance code reliability and maintainability.
